@@ -1,0 +1,10 @@
+recording/
+config*.yml
+log/
+config_test.yml
+*.pyc
+BaiduPCS-Go_export_*.txt
+lastupdate.tmp
+main.exe
+main.exe~
+*.log
